@@ -1,0 +1,26 @@
+body{
+   background-color: #EAF6F6;
+}
+hr{
+ border-style: none;
+ /* background-color: #139487; */
+ /* height: 0px; */
+ width:9%;
+
+ border-top:6px dotted #65C18C;
+
+}
+h3{
+  color:#085E7D;
+}
+h1{
+  color:#219F94;
+}
+
+
+.kunal{
+  border-radius: 100%;
+}
+h1:hover{
+  background-color: gold;
+}
